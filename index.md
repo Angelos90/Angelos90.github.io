@@ -1,13 +1,18 @@
 ---
 layout: frontpage
-title: Blue Ham
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+title: Angelos Aveklouris
+description: Angelos Aveklouris is a Principal Researcher at The University of Chicago Booth School of Business. 
+keywords: Angelos, Aveklouris, mathematics, pilot, airplanes
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+Currently I am  a Principal Researcher at The University of Chicago Booth School of Business. 
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+My main research interests are in the broad field of probability theory and operations research. Currently, I am working on matching problems that appear in service platforms, for example, ridesharing firms (such as Uber and Lyft), online markers, etc. I develop optimal matching policies using asymptotic techniques.
+
+During my Ph.D studies, I worked on fluid and diffusion approximations of stochastic networks with multiple interactive layers that appear in many applications such as communication, computer, manufacturing, and electric vehicle charging systems.
+%The physical constraints provided by real-world systems and the stochasticity of the various elements  %provide me with a challenge in the modeling and analysis of these networks. The development and analysis of such models require tools from queueing theory, probability theory, optimization, statistics, and electrical engineering.
+
+#[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
 
 ---

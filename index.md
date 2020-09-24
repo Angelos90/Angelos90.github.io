@@ -23,14 +23,14 @@ During my Ph.D studies, I worked on fluid and diffusion approximations of stocha
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Angelos Aveklouris<br/>
+            Email: angelos.aveklouris@chicagobooth.edu<br/>
         </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+                  title="Angelos Aveklouris" alt="Angelos Aveklouris"/></a>
         </div>
     </div>
 </div>
@@ -39,8 +39,6 @@ During my Ph.D studies, I worked on fluid and diffusion approximations of stocha
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
       </ul>
   </div>
 </div>

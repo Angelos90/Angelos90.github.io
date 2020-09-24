@@ -9,8 +9,7 @@ Currently I am  a Principal Researcher at The University of Chicago Booth School
 
 My main research interests are in the broad field of probability theory and operations research. Currently, I am working on matching problems that appear in service platforms, for example, ridesharing firms (such as Uber and Lyft), online markers, etc. I develop optimal matching policies using asymptotic techniques.
 
-During my Ph.D studies, I worked on fluid and diffusion approximations of stochastic networks with multiple interactive layers that appear in many applications such as communication, computer, manufacturing, and electric vehicle charging systems.
-%The physical constraints provided by real-world systems and the stochasticity of the various elements  %provide me with a challenge in the modeling and analysis of these networks. The development and analysis of such models require tools from queueing theory, probability theory, optimization, statistics, and electrical engineering.
+During my Ph.D studies, I worked on fluid and diffusion approximations of stochastic networks with multiple interactive layers that appear in many applications such as communication, computer, manufacturing, and electric vehicle charging systems. The development and analysis of such models require tools from queueing theory, probability theory, optimization, statistics, and electrical engineering.
 
 
 

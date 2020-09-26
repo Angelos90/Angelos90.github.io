@@ -23,6 +23,10 @@ During my Ph.D studies, I worked on fluid and diffusion approximations of stocha
     <div class="row-fluid">
         <div class="span5">
             Angelos Aveklouris<br/>
+            The University of Chicago<br/>
+            Booth School of Business<br/>
+            5807 South Woodlawn Avenue - Office #236-2<br/>
+             Chicago, IL 60637<br/>
             Email: angelos.aveklouris@chicagobooth.edu<br/>
         </div>
 

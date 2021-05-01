@@ -6,8 +6,7 @@ description: Angelos Aveklouris' Publications
 
 
 
-#### <u>The effects of increased eye contact on feeding portions</u>
-*In this paper *
+#### Angelos\ Aveklouris, Maria\ Vlasiou, Jiheng\ Zhang, and Bert\ Zwart (2017). Heavy-traffic approximations for a layered network with limited resources. Probability and Mathematical Statistics, 37(2): 497--532, 2017.  \url{https://arxiv.org/pdf/1701.03370.pdf}
 
 
 

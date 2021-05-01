@@ -5,11 +5,10 @@ description: Angelos Aveklouris is a Principal Researcher at The University of C
 keywords: Angelos, Aveklouris, mathematics, pilot, airplanes
 ---
 
-Currently, I am  a Principal Researcher at The University of Chicago Booth School of Business. 
+Currently, I am  a Principal Researcher at The University of Chicago Booth School of Business. I am in the job market 2021
 
-My main research interests are in the broad field of probability theory and operations research. Currently, I am working on matching problems that appear in service platforms, for example, ridesharing firms (such as Uber and Lyft), online markers, etc. I develop optimal matching policies using asymptotic techniques.
-
-During my Ph.D studies, I worked on fluid and diffusion approximations of stochastic networks with multiple interactive layers that appear in many applications such as communication, computer, manufacturing, and electric vehicle charging systems. The development and analysis of such models require tools from queueing theory, probability theory, optimization, statistics, and electrical engineering.
+My main research interests are in the broad field of applied probability and service operations management. Currently, I am working in the Operations and Management group at Booth School of Business conducted research for applications inspired by service firms (e.g., ridesharing firms (such as Uber and Lyft), online markers, etc). In particular, I am working on the development and analysis of stochastic process models that are relevant for service operations management decisions. Furthermore, I am working on a data-based project related to a subscription model. Based on real data from a company and using artificial intelligence methods, we investigate the main factors that lead the customers to subscribe to the company and suggest optimal strategies.
+This analysis requires tools from probability theory, statistics, artificial intelligence, optimization, queueing theory, decision analysis, and simulation.
 
 
 

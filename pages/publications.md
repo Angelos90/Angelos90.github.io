@@ -4,7 +4,7 @@ title: Publications
 description: Angelos Aveklouris' Publications
 ---
 
-<b><p style="font-size:30px">font-size: 0.8em;Working Papers (Submitted/Under Preparation)</p>
+<b><p style="font-size:30px">Working Papers (Submitted/Under Preparation)</p>
 
  1) Angelos Aveklouris, Levi DeValve,  Amy R. Ward, and Xiaofan Wu. Matching impatient and heterogeneous demand and supply.
    *Submitted*. \url{https://arxiv.org/pdf/2102.02710.pdf}

@@ -31,7 +31,7 @@ My main research interests are in the broad field of applied probability and ser
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="<b>Angelos Aveklouris" alt="<b>Angelos Aveklouris"/></a>
+                  title="Angelos Aveklouris" alt="Angelos Aveklouris"/></a>
         </div>
     </div>
 </div>

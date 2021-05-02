@@ -18,7 +18,7 @@ description: Angelos Aveklouris' Publications
  4.  Angelos Aveklouris and Amy R. Ward.  A data-driven subscription model using artificial intelligence methods.
      *Under preparation*.
 
-<b>Journal Publications 
+<p style="font-size:25px">Journal Publications</p>
 
  1. Angelos Aveklouris, Maria Vlasiou, and Bert Zwart (2019). Bounds and limit theorems for a layered queueing model in electric vehicle charging.
     *Queueing Systems: Theory and Applications*, 93(1): 83--137.
@@ -31,13 +31,13 @@ description: Angelos Aveklouris' Publications
 3. Angelos Aveklouris, Maria Vlasiou, Jiheng Zhang, and Bert Zwart (2017).  Heavy-traffic approximations for a layered network with limited resources. 
    *Probability and Mathematical Statistics*, 37(2): 497--532.  https://arxiv.org/pdf/1701.03370.pdf
 
-<b>Conference Proceedings
+<p style="font-size:25px">Conference Proceedings</p>
 
 1. Angelos Aveklouris, Yorie Nakahira, Maria Vlasiou, and Bert Zwart (2017). Electric vehicle charging: a queueing approach. 
    *ACM SIGMETRICS Performance Evaluation Review* 45 (2), 33-35.
 \url{https://arxiv.org/pdf/1712.08747.pdf}
 
-<b>Theses
+<p style="font-size:25px">Theses</p>
 
    1. Angelos Aveklouris (2020). Layered stochastic networks with limited resources. *PhD thesis*, Eindhoven University of Technology, Eindhoven, the Netherlands. 
       ISBN: 978-90-386-4966-5.

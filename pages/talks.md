@@ -8,7 +8,7 @@ description: Angelos Aveklouris' Talks
 
 Presentations given by co-authors are marked with a *.
 
-<b> Invited Talks
+ <b><p style="font-size:25px">Invited Talks<\p><\b>
 
   May 2021	 Matching impatient demand and supply in service platforms. UCSD Stochastic Systems Seminar, CA, USA.
 

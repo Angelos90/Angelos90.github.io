@@ -4,10 +4,10 @@ title: Publications
 description: Angelos Aveklouris' Publications
 ---
 
-####Working Papers (Submitted/Under Preparation)
+Working Papers (Submitted/Under Preparation)
 
- 1) Angelos #Aveklouris, Levi DeValve,  Amy R. Ward, and Xiaofan Wu. Matching impatient and heterogeneous demand and supply.
-   *Submitted. \url{https://arxiv.org/pdf/2102.02710.pdf}
+ 1) Angelos Aveklouris, Levi DeValve,  Amy R. Ward, and Xiaofan Wu. Matching impatient and heterogeneous demand and supply.
+   *Submitted*. \url{https://arxiv.org/pdf/2102.02710.pdf}
 
  2) Angelos Aveklouris, Maria Vlasiou, and Bert Zwart. A fluid model of an electric vehicle charging network. *Invited for minor revision, Stochastic Systems. \url{https://arxiv.org/pdf/2004.05637.pdf}
 

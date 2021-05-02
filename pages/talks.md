@@ -39,7 +39,7 @@ Presentations given by co-authors are marked with a *.
   July 2017*  Heavy-traffic approximations for a layered network with limited resources. 19th INFORMS APS Conference, Evanston, USA.
 
 
-<p style="font-size:25px">Conference Presentations</p>
+<p style="font-size:25px"><b>Conference Presentations</b></p>
 
   July 2018 A novel application of layered queueing networks in electric vehicle charging. European Conference on Queueing Theory, Jerusalem, Israel.
 
@@ -53,7 +53,7 @@ Presentations given by co-authors are marked with a *.
 
 
 
-<p style="font-size:25px">Posters</p>
+<p style="font-size:25px"><b>Posters</b></p>
 
    June 2018 Stochastic networks for electric vehicle charging. Stochastic Networks Conference, Edinburgh, UK.
    

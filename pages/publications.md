@@ -22,21 +22,21 @@ description: Angelos Aveklouris' Publications
 <p style="font-size:25px"><b>Journal Publications</b></p>
 
  1. Angelos Aveklouris, Maria Vlasiou, and Bert Zwart (2019). <b>Bounds and limit theorems for a layered queueing model in electric vehicle charging</b>.
-    *Queueing Systems: Theory and Applications*, 93(1): 83--137.
-      \url{https://arxiv.org/pdf/1810.05473.pdf}
+    *Queueing Systems: Theory and Applications*, 93(1): 83--137. <a href="https://arxiv.org/pdf/1810.05473.pdf">[pdf]</a>
+     
       
  2.  Angelos Aveklouris, Maria Vlasiou, and Bert Zwart (2019). <b>A stochastic resource-sharing network for electric vehicle charging</b>.
-    *IEEE Transactions on Control of Network Systems*, 6(3): 1050--1061.
-    \url{https://arxiv.org/pdf/1711.05561.pdf}
+    *IEEE Transactions on Control of Network Systems*, 6(3): 1050--1061. <a href="https://arxiv.org/pdf/1711.05561.pdf">[pdf]</a>
+    
 
 3. Angelos Aveklouris, Maria Vlasiou, Jiheng Zhang, and Bert Zwart (2017).  <b>Heavy-traffic approximations for a layered network with limited resources</b>. 
-   *Probability and Mathematical Statistics*, 37(2): 497--532.  https://arxiv.org/pdf/1701.03370.pdf
+   *Probability and Mathematical Statistics*, 37(2): 497--532. <a href=" https://arxiv.org/pdf/1701.03370.pdf">[pdf]</a>
 
 <p style="font-size:25px"><b>Conference Proceedings</b></p>
 
 1. Angelos Aveklouris, Yorie Nakahira, Maria Vlasiou, and Bert Zwart (2017). <b>Electric vehicle charging: a queueing approach</b>. 
-   *ACM SIGMETRICS Performance Evaluation Review* 45 (2), 33-35.
-\url{https://arxiv.org/pdf/1712.08747.pdf}
+   *ACM SIGMETRICS Performance Evaluation Review* 45 (2), 33-35. <a href="https://arxiv.org/pdf/1712.08747.pdf">[pdf]</a>
+
 
 <p style="font-size:25px"><b>Theses</b></p>
 

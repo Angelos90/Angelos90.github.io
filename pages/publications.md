@@ -9,40 +9,40 @@ Working Papers (Submitted/Under Preparation)
  1) Angelos Aveklouris, Levi DeValve,  Amy R. Ward, and Xiaofan Wu. Matching impatient and heterogeneous demand and supply.
    *Submitted*. \url{https://arxiv.org/pdf/2102.02710.pdf}
 
- 2) Angelos Aveklouris, Maria Vlasiou, and Bert Zwart. A fluid model of an electric vehicle charging network. *Invited for minor revision, Stochastic Systems. \url{https://arxiv.org/pdf/2004.05637.pdf}
+ 2) Angelos Aveklouris, Maria Vlasiou, and Bert Zwart. A fluid model of an electric vehicle charging network. *Invited for minor revision, Stochastic Systems*. \url{https://arxiv.org/pdf/2004.05637.pdf}
 
 
  3) Angelos Aveklouris and Amy R. Ward. A fluid approximation for a two-sided matching network with reneging.
-    *Under preparation.
+    *Under preparation*.
 
  4)  Angelos\ Aveklouris and Amy R.\ Ward.  A data-driven subscription model using artificial intelligence methods.
-     *Under preparation.
+     *Under preparation*.
 
 Journal Publications 
 
- 1) Angelos Aveklouris, Maria Vlasiou, and Bert Zwart (2019). Bounds and limit theorems for a layered queueing model in electric vehicle charging.
-    *Queueing Systems: Theory and Applications, 93(1): 83--137, 2019
+ 1) ##Angelos Aveklouris##, Maria Vlasiou, and Bert Zwart (2019). Bounds and limit theorems for a layered queueing model in electric vehicle charging.
+    *Queueing Systems: Theory and Applications*, 93(1): 83--137, 2019
       \url{https://arxiv.org/pdf/1810.05473.pdf}
       
  2)  Angelos Aveklouris, Maria Vlasiou, and Bert Zwart (2019). A stochastic resource-sharing network for electric vehicle charging.
-    *IEEE Transactions on Control of Network Systems, 6(3): 1050--1061, 2019.
+    *IEEE Transactions on Control of Network Systems*, 6(3): 1050--1061, 2019.
     \url{https://arxiv.org/pdf/1711.05561.pdf}
 
 3) Angelos Aveklouris, Maria Vlasiou, Jiheng Zhang, and Bert Zwart (2017).  Heavy-traffic approximations for a layered network with limited resources. 
-   *Probability and Mathematical Statistics, 37(2): 497--532, 2017.  https://arxiv.org/pdf/1701.03370.pdf
+   *Probability and Mathematical Statistics*, 37(2): 497--532, 2017.  https://arxiv.org/pdf/1701.03370.pdf
 
 Conference Proceedings
 
 1) Angelos Aveklouris, Yorie Nakahira, Maria Vlasiou, and Bert Zwart (2017). Electric vehicle charging: a queueing approach. 
-   *ACM SIGMETRICS Performance Evaluation Review --  Special issue on the Mathematical performance Modeling and Analysis (MAMA) workshop proceeding 2017.
+   *ACM SIGMETRICS Performance Evaluation Review* 45 (2), 33-35, 2017.
 \url{https://arxiv.org/pdf/1712.08747.pdf}
 
 Theses
 
-   1) Angelos Aveklouris (2020). Layered stochastic networks with limited resources. *PhD thesis, Eindhoven University of Technology, Eindhoven, the Netherlands. 
+   1) Angelos Aveklouris (2020). Layered stochastic networks with limited resources. *PhD thesis*, Eindhoven University of Technology, Eindhoven, the Netherlands. 
       ISBN: 978-90-386-4966-5.
   
-  2) Angelos Aveklouris (2015). Integral Approximation of pdfs and its connection with Large Sample Theory. *Master thesis, Technical University of Athens, Greece.
+  2) Angelos Aveklouris (2015). Integral Approximation of pdfs and its connection with Large Sample Theory. *Master thesis*, Technical University of Athens, Greece.
   
 
 

@@ -8,7 +8,7 @@ description: Angelos Aveklouris' Talks
 
 Presentations given by co-authors are marked with a *.
 
- <b><p style="font-size:25px">Invited Talks<\p><\b>
+ <p style="font-size:25px">Invited Talks<\p>
 
   May 2021	 Matching impatient demand and supply in service platforms. UCSD Stochastic Systems Seminar, CA, USA.
 
@@ -39,7 +39,7 @@ Presentations given by co-authors are marked with a *.
   July 2017*  Heavy-traffic approximations for a layered network with limited resources. 19th INFORMS APS Conference, Evanston, USA.
 
 
-<b> Conference Presentations
+<p style="font-size:25px">Conference Presentations<\p>
 
   July 2018 A novel application of layered queueing networks in electric vehicle charging. European Conference on Queueing Theory, Jerusalem, Israel.
 
@@ -53,7 +53,7 @@ Presentations given by co-authors are marked with a *.
 
 
 
-<b> Posters
+<p style="font-size:25px">Posters<\p>
 
    June 2018 Stochastic networks for electric vehicle charging. Stochastic Networks Conference, Edinburgh, UK.
    

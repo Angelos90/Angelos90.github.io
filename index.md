@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: <b>Angelos Aveklouris</b>
+title: Angelos Aveklouris
 description: Angelos Aveklouris is a Principal Researcher at The University of Chicago Booth School of Business. 
 keywords: Angelos, Aveklouris, mathematics, pilot, airplanes
 ---

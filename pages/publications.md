@@ -18,7 +18,7 @@ description: Angelos Aveklouris' Publications
  4.  Angelos Aveklouris and Amy R. Ward.  <b>A data-driven subscription model using artificial intelligence methods</b>.
      *Under preparation*.
 
-<p style="font-size:25px"><b>Journal Publications<b/></p>
+<p style="font-size:25px"><b>Journal Publications</b></p>
 
  1. Angelos Aveklouris, Maria Vlasiou, and Bert Zwart (2019). <b>Bounds and limit theorems for a layered queueing model in electric vehicle charging</b>.
     *Queueing Systems: Theory and Applications*, 93(1): 83--137.

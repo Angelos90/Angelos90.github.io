@@ -7,7 +7,7 @@ description: Angelos Aveklouris' Talks
 
 
 Presentations given by co-authors are marked with a *.
-Invited Talks
+<b> Invited Talks
 
 \begin{enumerate}
   \item[May\ 2021]	 Matching impatient demand and supply in service platforms. UCSD Stochastic Systems Seminar, CA, USA.
@@ -40,7 +40,7 @@ Invited Talks
 
 \end{enumerate}
 
-Conference Presentations
+<b> Conference Presentations
 
 \begin{enumerate}
 	\item[July 2018] A novel application of layered queueing networks in electric vehicle charging. European Conference on Queueing Theory, Jerusalem, Israel.
@@ -55,7 +55,7 @@ Conference Presentations
 
 \end{enumerate}
 
-Posters
+<b> Posters
 
 \begin{enumerate}
    \item[June 2018] Stochastic networks for electric vehicle charging. Stochastic Networks Conference, Edinburgh, UK.

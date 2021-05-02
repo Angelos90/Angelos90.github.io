@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Angelos Aveklouris
+title: <b>Angelos Aveklouris</b>
 description: Angelos Aveklouris is a Principal Researcher at The University of Chicago Booth School of Business. 
 keywords: Angelos, Aveklouris, mathematics, pilot, airplanes
 ---
@@ -20,12 +20,13 @@ My main research interests are in the broad field of applied probability and ser
 
     <div class="row-fluid">
         <div class="span5">
-            Angelos Aveklouris<br/>
+            <b>Angelos Aveklouris</b><br/>
             The University of Chicago<br/>
             Booth School of Business<br/>
             5807 South Woodlawn Avenue - Office #236-2<br/>
             Chicago, IL 60637<br/>
             Email: angelos.aveklouris@chicagobooth.edu<br/>
+            Google scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=angelos+aveklouris&oq=a <br/>
         </div>
 
         <div class="span2">

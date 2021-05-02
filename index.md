@@ -20,7 +20,7 @@ My main research interests are in the broad field of applied probability and ser
 
     <div class="row-fluid">
         <div class="span5">
-           <b> Angelos Aveklouris<br/>
+            Angelos Aveklouris<br/>
             The University of Chicago<br/>
             Booth School of Business<br/>
             5807 South Woodlawn Avenue - Office #236-2<br/>

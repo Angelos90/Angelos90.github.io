@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-description: Angelos Aveklouris' Publications
+title: Talks
+description: Angelos Aveklouris' Talks
 ---
 
 

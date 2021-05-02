@@ -10,7 +10,7 @@ description: Angelos Aveklouris' Publications
    *Submitted*. <a href="https://arxiv.org/pdf/2102.02710.pdf">[pdf]</a>
 
  2. Angelos Aveklouris, Maria Vlasiou, and Bert Zwart. <b>A fluid model of an electric vehicle charging network</b>. *Invited for minor revision, Stochastic Systems*.
- <a href="https://arxiv.org/pdf/2004.05637.pdf">[pdf]</a>
+g
 
 
  3. Angelos Aveklouris and Amy R. Ward. <b>A fluid approximation for a two-sided matching network with reneging</b>.
@@ -41,8 +41,8 @@ description: Angelos Aveklouris' Publications
 <p style="font-size:25px"><b>Theses</b></p>
 
    1. Angelos Aveklouris (2020). <b>Layered stochastic networks with limited resources</b>. *PhD thesis*, Eindhoven University of Technology, Eindhoven, the Netherlands. 
-      ISBN: 978-90-386-4966-5.
-  
+      ISBN: 978-90-386-4966-5. <a href="https://pure.tue.nl/ws/portalfiles/portal/145233555/20200128_Aveklouris.pdf">[pdf]</a>
+
   2. Angelos Aveklouris (2015). <b>Integral Approximation of pdfs and its connection with Large Sample Theory</b>. *Master thesis*, Technical University of Athens, Greece.
   
 

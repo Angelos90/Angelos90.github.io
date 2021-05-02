@@ -4,7 +4,7 @@ title: Publications
 description: Angelos Aveklouris' Publications
 ---
 
-<b>Working Papers (Submitted/Under Preparation){
+<b>font-size: 0.8em;Working Papers (Submitted/Under Preparation){
   font-size: 75;
 }
 

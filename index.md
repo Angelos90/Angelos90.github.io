@@ -4,7 +4,7 @@ title: Angelos Aveklouris
 description: Angelos Aveklouris is a Principal Researcher at The University of Chicago Booth School of Business. 
 keywords: Angelos, Aveklouris, mathematics, pilot, airplanes
 ---
-I am currently a Principal Researcher in the Operations Management area at The University of Chicago Booth School of Business. I received my PhD in Aplied Mathematics from Eindhoven University of Technology. 
+I am currently a Principal Researcher in the Operations Management area at The University of Chicago Booth School of Business. I received my PhD in Applied Mathematics from Eindhoven University of Technology. 
 
 My main research interests are in the broad field of applied probability and service operations management. Currently, I am working on the development and analysis of stochastic process models that are relevant for service operations management decisions. Furthermore, I am working on a data-based project related to a subscription model. Based on real data from a company and using artificial intelligence methods, we investigate the main factors that lead the customers to subscribe to the company and suggest optimal strategies. Solving such problems requires tools from probability, statistics, queueing theory, optimization, artificial intelligence, and engineering.
 

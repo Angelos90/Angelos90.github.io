@@ -8,7 +8,9 @@ description: Angelos Aveklouris' Talks
 
 Presentations given by co-authors are marked with a *.
 
- <p style="font-size:25px"><b>Invited Talks</b></p>
+  <p style="font-size:25px"><b>Invited Talks</b></p>
+ 
+  <b>Oct. 2021</b>	 A fluid approximation for a matching network with reneging. INFORMS Annual Meeting, Anaheim, USA.
 
   <b>May 2021</b>	 Matching impatient demand and supply in service platforms. UCSD Stochastic Systems Seminar, CA, USA.
 
@@ -40,6 +42,11 @@ Presentations given by co-authors are marked with a *.
 
 
 <p style="font-size:25px"><b>Conference Presentations</b></p>
+ <b>June 2021</b> Matching impatient and heterogenous demand and supply in service platforms.Revenue Management
+                   and Pricing Section Conference (Virtual). 
+
+ <b>June 2021</b> Matching impatient and heterogenous demand and supply in service platforms. Manufacturing
+                   and Service Operations Management Conference (Virtual). 
 
   <b>July 2018</b> A novel application of layered queueing networks in electric vehicle charging. European Conference on Queueing Theory, Jerusalem, Israel.
 

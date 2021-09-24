@@ -9,7 +9,7 @@ description: Angelos Aveklouris' Publications
  1. Angelos Aveklouris, Levi DeValve,  Amy R. Ward, and Xiaofan Wu. <b>Matching impatient and heterogeneous demand and supply</b>.
    *Submitted*. <a href="https://arxiv.org/pdf/2102.02710.pdf">[pdf]</a>
 
- 2. Angelos Aveklouris, Maria Vlasiou, and Bert Zwart. <b>A fluid model of an electric vehicle charging network</b>. *Invited for minor revision, Stochastic Systems*.
+ 2. Angelos Aveklouris, Maria Vlasiou, and Bert Zwart. <b>A fluid model of an electric vehicle charging network</b>. *Forthcoming in Stochastic Systems*.
      <a href="https://arxiv.org/pdf/2004.05637.pdf">[pdf]</a>
 
  3. Angelos Aveklouris and Amy R. Ward. <b>A fluid approximation for a two-sided matching network with reneging</b>.

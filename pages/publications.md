@@ -6,29 +6,30 @@ description: Angelos Aveklouris' Publications
 
 <p style="font-size:25px"><b>Working Papers (Submitted/Under Preparation)</b></p>
 
- 1. Angelos Aveklouris, Levi DeValve,  Amy R. Ward, and Xiaofan Wu. <b>Matching impatient and heterogeneous demand and supply</b>.
-   *Submitted*. <a href="https://arxiv.org/pdf/2102.02710.pdf">[pdf]</a>
+ 1. Angelos Aveklouris, Levi DeValve, and Amy R. Ward. <b>Matching impatient and heterogeneous demand and supply</b>.
+   *Under preparationr*.
 
- 2. Angelos Aveklouris, Maria Vlasiou, and Bert Zwart. <b>A fluid model of an electric vehicle charging network</b>. *Forthcoming in Stochastic Systems*.
-     <a href="https://arxiv.org/pdf/2004.05637.pdf">[pdf]</a>
-
+ 2.  Angelos Aveklouris and Amy R. Ward.  <b>A blind, greedy policy for a matching network with reneging</b>.
+     *Under preparation*.
+     
  3. Angelos Aveklouris and Amy R. Ward. <b>A fluid approximation for a two-sided matching network with reneging</b>.
     *Under preparation*.
 
- 4.  Angelos Aveklouris and Amy R. Ward.  <b>A data-driven subscription model using artificial intelligence methods</b>.
-     *Under preparation*.
 
 <p style="font-size:25px"><b>Journal Publications</b></p>
+ 
+ 1. Angelos Aveklouris, Maria Vlasiou, and Bert Zwart. <b>A fluid model of an electric vehicle charging network</b>. *Forthcoming in Stochastic Systems*.
+     <a href="https://arxiv.org/pdf/2004.05637.pdf">[pdf]</a>
 
- 1. Angelos Aveklouris, Maria Vlasiou, and Bert Zwart (2019). <b>Bounds and limit theorems for a layered queueing model in electric vehicle charging</b>.
+ 2. Angelos Aveklouris, Maria Vlasiou, and Bert Zwart (2019). <b>Bounds and limit theorems for a layered queueing model in electric vehicle charging</b>.
     *Queueing Systems: Theory and Applications*, 93(1): 83--137. <a href="https://arxiv.org/pdf/1810.05473.pdf">[pdf]</a>
      
       
- 2.  Angelos Aveklouris, Maria Vlasiou, and Bert Zwart (2019). <b>A stochastic resource-sharing network for electric vehicle charging</b>.
+ 3.  Angelos Aveklouris, Maria Vlasiou, and Bert Zwart (2019). <b>A stochastic resource-sharing network for electric vehicle charging</b>.
     *IEEE Transactions on Control of Network Systems*, 6(3): 1050--1061. <a href="https://arxiv.org/pdf/1711.05561.pdf">[pdf]</a>
     
 
-3. Angelos Aveklouris, Maria Vlasiou, Jiheng Zhang, and Bert Zwart (2017).  <b>Heavy-traffic approximations for a layered network with limited resources</b>. 
+4. Angelos Aveklouris, Maria Vlasiou, Jiheng Zhang, and Bert Zwart (2017).  <b>Heavy-traffic approximations for a layered network with limited resources</b>. 
    *Probability and Mathematical Statistics*, 37(2): 497--532. <a href=" https://arxiv.org/pdf/1701.03370.pdf">[pdf]</a>
 
 <p style="font-size:25px"><b>Conference Proceedings</b></p>

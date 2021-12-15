@@ -12,7 +12,7 @@ description: Angelos Aveklouris' Publications
  2.  Angelos Aveklouris and Amy R. Ward.  <b>A blind, greedy policy for a matching network with reneging</b>.
      *Under preparation*.
      
- 3. Angelos Aveklouris and Amy R. Ward. <b>A fluid approximation for a two-sided matching network with reneging</b>.
+ 3. Angelos Aveklouris, Amber L. Puha, and Amy R. Ward. <b>A fluid approximation for a two-sided matching network with reneging</b>.
     *Under preparation*.
 
 

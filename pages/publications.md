@@ -7,7 +7,7 @@ description: Angelos Aveklouris' Publications
 <p style="font-size:25px"><b>Working Papers (Submitted/Under Preparation)</b></p>
 
  1. Angelos Aveklouris, Levi DeValve, and Amy R. Ward. <b>Matching impatient and heterogeneous demand and supply</b>.
-   *Under preparationr*. <a href="https://arxiv.org/pdf/2102.02710.pdf">[pdf]</a>
+   *Submitted*. <a href="https://arxiv.org/pdf/2102.02710.pdf">[pdf]</a>
 
  2.  Angelos Aveklouris, Levi DeValve, and Amy R. Ward.  <b>A blind, greedy policy for a matching network with reneging</b>.
      *Under preparation*.

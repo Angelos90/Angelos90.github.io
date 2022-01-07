@@ -9,7 +9,7 @@ description: Angelos Aveklouris' Publications
  1. Angelos Aveklouris, Levi DeValve, and Amy R. Ward. <b>Matching impatient and heterogeneous demand and supply</b>.
    *Under preparationr*. <a href="https://arxiv.org/pdf/2102.02710.pdf">[pdf]</a>
 
- 2.  Angelos Aveklouris and Amy R. Ward.  <b>A blind, greedy policy for a matching network with reneging</b>.
+ 2.  Angelos Aveklouris, Levi DeValve, and Amy R. Ward.  <b>A blind, greedy policy for a matching network with reneging</b>.
      *Under preparation*.
      
  3. Angelos Aveklouris, Amber L. Puha, and Amy R. Ward. <b>A fluid approximation for a two-sided matching network with reneging</b>.

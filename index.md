@@ -25,7 +25,7 @@ problems requires tools from probability, statistics, queueing theory, optimizat
             Booth School of Business<br/>
             5807 South Woodlawn Avenue - Office #236-2<br/>
             Chicago, IL 60637<br/>
-            Email: angelos.aveklouris@chicagobooth.edu<br/>
+            Email: avek.angelos@gmail.com<br/>
             <a href="https://scholar.google.com/citations?user=ffDoXPMAAAAJ&hl=en&oi=ao">Google scholar</a><br/>
         </div>
 

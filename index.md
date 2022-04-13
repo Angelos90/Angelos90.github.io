@@ -9,7 +9,6 @@ I am currently a Principal Researcher in the Operations Management area at The U
 My main research interests are in the broad field of Applied Probability and Service Operations Management. I develop policies that promote efficient management of service firms. This could mean optimizing the charging of electric vehicles or optimizing the matching of customers and workers in online platforms. Solving such
 problems requires tools from probability, statistics, queueing theory, optimization, and engineering.
 
-<b>I am currently in the job market.</b>
 
 
 ---
